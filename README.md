@@ -2,7 +2,7 @@
 
 
 
-<h1 align="center">Olá! Eu sou o Vitor Hugo 👋</h1>
+<h1 align="center">Olá! Eu sou o Erick Santos 👋</h1>
 
 
  <h2>Sobre mim</h2> 
@@ -13,9 +13,7 @@ Estudante de Análise e Desenvolvimento de Sistemas e apaixonado pro tecnologia.
 <div style="display: flex">
 <br>
 
-[![linkedin](https://img.shields.io/badge/linkedin-000?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)
 
-[![instagram](https://img.shields.io/badge/instagram-000?style=for-the-badge&logo=instagram&logoColor=blue)](https://twitter.com/)
 </div>
 
 <h2>Habilidades</h2>
