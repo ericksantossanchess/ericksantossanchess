@@ -1,11 +1,22 @@
-# Olá, meu nome é Erick Santos 👋
+# Olá, meu nome é Erick 👋
+### 🧚‍♀️Sobre mim 
 
-## Conecte-se comigo
-[![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://web.dio.me/users/erickramossilva/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erickramossilva/)
-## Habilidades
-![Python](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=FCC624)
-![HTML](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![CSS](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=2erick&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
+- Sou esforçado
+- Sei trabalhar em equipe
+- Sociavel
+- Carismatico
+
+### Languages and Tools
+
+<div style="display: inline_block"><br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ericksantossanches&radius=16&theme=redical&area=false&order=5&hide_border=true&hide_title=false&custom_title=%20&line=F12A37&point=91040D&color=E1E1E1" height="290" alt="activity-graph graph"  />
+</div>
+
+<br>
+
+
+
+<div>
+  <img height="170px" src="https://github-readme-stats.vercel.app/api?username=3-du4rd4&show_icons=true&theme=radical"/>
+  <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=3-du4rd4&theme=radical&layout=compact"/>
+</div>
